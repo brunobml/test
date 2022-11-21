@@ -1,3 +1,4 @@
+THIS IS S CHANGE
 AWSTemplateFormatVersion: 2010-09-09
 Description: Lab1 template which builds a VPC with 1 public subnet and 1 SG
 Parameters:
